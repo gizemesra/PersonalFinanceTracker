@@ -1,0 +1,15 @@
+/Users/r.yanki/Desktop/PersonalFinanceTracker/PersonalFinanceTracker/bin/Debug/net8.0/PersonalFinanceTracker
+/Users/r.yanki/Desktop/PersonalFinanceTracker/PersonalFinanceTracker/bin/Debug/net8.0/PersonalFinanceTracker.deps.json
+/Users/r.yanki/Desktop/PersonalFinanceTracker/PersonalFinanceTracker/bin/Debug/net8.0/PersonalFinanceTracker.runtimeconfig.json
+/Users/r.yanki/Desktop/PersonalFinanceTracker/PersonalFinanceTracker/bin/Debug/net8.0/PersonalFinanceTracker.dll
+/Users/r.yanki/Desktop/PersonalFinanceTracker/PersonalFinanceTracker/bin/Debug/net8.0/PersonalFinanceTracker.pdb
+/Users/r.yanki/Desktop/PersonalFinanceTracker/PersonalFinanceTracker/obj/Debug/net8.0/PersonalFinanceTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/r.yanki/Desktop/PersonalFinanceTracker/PersonalFinanceTracker/obj/Debug/net8.0/PersonalFinanceTracker.AssemblyInfoInputs.cache
+/Users/r.yanki/Desktop/PersonalFinanceTracker/PersonalFinanceTracker/obj/Debug/net8.0/PersonalFinanceTracker.AssemblyInfo.cs
+/Users/r.yanki/Desktop/PersonalFinanceTracker/PersonalFinanceTracker/obj/Debug/net8.0/PersonalFinanceTracker.csproj.CoreCompileInputs.cache
+/Users/r.yanki/Desktop/PersonalFinanceTracker/PersonalFinanceTracker/obj/Debug/net8.0/PersonalFinanceTracker.sourcelink.json
+/Users/r.yanki/Desktop/PersonalFinanceTracker/PersonalFinanceTracker/obj/Debug/net8.0/PersonalFinanceTracker.dll
+/Users/r.yanki/Desktop/PersonalFinanceTracker/PersonalFinanceTracker/obj/Debug/net8.0/refint/PersonalFinanceTracker.dll
+/Users/r.yanki/Desktop/PersonalFinanceTracker/PersonalFinanceTracker/obj/Debug/net8.0/PersonalFinanceTracker.pdb
+/Users/r.yanki/Desktop/PersonalFinanceTracker/PersonalFinanceTracker/obj/Debug/net8.0/PersonalFinanceTracker.genruntimeconfig.cache
+/Users/r.yanki/Desktop/PersonalFinanceTracker/PersonalFinanceTracker/obj/Debug/net8.0/ref/PersonalFinanceTracker.dll
