@@ -1,18 +1,46 @@
-# PersonalFinanceTracker
-This repository contains the Personal Finance Tracker application, an individual project designed and developed in C#. The application serves as a comprehensive tool for users looking to manage their personal finances with ease. It allows for tracking of income, expenses, setting up savings goals, and analyzing spending patterns over time. 
+# Personal Finance Tracker
+
+## Overview
+The Personal Finance Tracker is a simple yet effective console application developed in C#. It allows users to manage their finances by tracking income and expenses, categorizing transactions, and viewing summaries. This application also features basic user authentication and file-based data persistence.
+
+## Features
+- **Add, View, Edit, and Delete Financial Transactions**: Manage your transactions with ease.
+- **Categorize Transactions**: Organize your expenses and incomes into categories.
+- **Summary of Expenses by Category**: Get insights into your spending patterns.
+- **Basic User Authentication**: Secure access to your financial information.
+- **Data Persistence**: Your data is saved and retrieved from a file.
+
+## Getting Started
+
+### Prerequisites
+- .NET SDK installed on your machine.
+
+### Installation
+1. Clone the repository:
+
+2. Navigate to the project directory:
 
 
-This intuitive and user-friendly desktop application offers a variety of features, including monthly budget planning, detailed financial reporting, and secure data management.
+### Running the Application
+Execute the following command in the terminal:
 
-Key functionalities include:
+dotnet run
 
-* User Registration: Secure sign-up and login system.
-* Income Management: Categorization and recording of various income sources.
-* Expense Logging: Categorization and tracking of daily expenditures.
-* Savings Tracker: Monitoring and managing savings objectives.
-* Budget Planner: Monthly and annual budget creation and oversight.
-* Financial Analytics: Visualization of financial data through charts and graphs.
-* Reporting: Customizable reports of financial activity.
-* Data Security: Encryption and secure storage of user data.
-* Cloud Synchronization: Option to sync data across multiple devices.
-* The project highlights the use of object-oriented programming (OOP) principles in C# and illustrates the application of software development best practices. It is designed to be robust, secure, and scalable, providing a solid foundation for future enhancements.
+## Usage
+Upon launching the application, log in with the default credentials:
+- **Username**: user
+- **Password**: pass
+
+Navigate through the application using the prompted commands:
+1. **Add Transaction**: Enter details for a new transaction.
+2. **List Transactions**: View all transactions.
+3. **Edit Transaction**: Modify an existing transaction.
+4. **Delete Transaction**: Remove a transaction.
+5. **Summary by Category**: Display a categorized summary of expenses.
+6. **Exit**: Close the application.
+
+## Contributing
+Contributions to improve the application are welcome. Feel free to fork the repo and create pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
